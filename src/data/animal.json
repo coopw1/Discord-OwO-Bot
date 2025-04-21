@@ -2,7 +2,7 @@
 	"ranks": {
 		"patreon": {
 			"rarity": 0.5,
-			"order": 5,
+			"order": 6,
 			"emoji": "<:patreon:449705754522419222>",
 			"alias": ["p"],
 			"price": 1000,
@@ -13,7 +13,7 @@
 		},
 		"cpatreon": {
 			"rarity": 0.01,
-			"order": 12,
+			"order": 7,
 			"emoji": "<a:cpatreon:483053960337293321>",
 			"alias": ["cp"],
 			"price": 50000,
@@ -68,7 +68,7 @@
 		},
 		"mythical": {
 			"rarity": 0.1,
-			"order": 7,
+			"order": 5,
 			"emoji": "<:mythic:416520808501084162>",
 			"alias": ["m", "mythic"],
 			"price": 5000,
@@ -79,7 +79,7 @@
 		},
 		"legendary": {
 			"rarity": 0.05,
-			"order": 9,
+			"order": 8,
 			"emoji": "<a:legendary:417955061801680909>",
 			"alias": ["l", "legend"],
 			"price": 15000,
@@ -89,7 +89,7 @@
 		},
 		"fabled": {
 			"rarity": 0.001,
-			"order": 13,
+			"order": 12,
 			"emoji": "<a:fabled:438857004493307907>",
 			"alias": ["f"],
 			"price": 250000,
@@ -109,7 +109,7 @@
 		},
 		"special": {
 			"rarity": 0,
-			"order": 6,
+			"order": 13,
 			"emoji": "<:special:427935192137859073>",
 			"alias": ["s"],
 			"price": 6000,
@@ -120,7 +120,7 @@
 		},
 		"gem": {
 			"rarity": 0.01,
-			"order": 8,
+			"order": 9,
 			"emoji": "<a:gem:510023576489951232>",
 			"alias": ["g"],
 			"price": 30000,
